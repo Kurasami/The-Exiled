@@ -10,6 +10,10 @@ The Exiled (formerly Das Tal) was created by [Fairytale Distillery](http://www.f
 
 The game was pulled from Steam in Q4 of 2022.
 
+## Gameplay Videos
+* https://www.youtube.com/watch?v=STmKFoFV_Do
+* https://www.youtube.com/watch?v=TcbK2ixU63w
+* https://www.youtube.com/watch?v=hL1y2B-qiRk
 ___
 
 >### The Exiled is a fast-paced PvP game set in a forsaken valley.
