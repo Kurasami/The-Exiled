@@ -1,5 +1,5 @@
-# The-Exiled
-An unmodified copy of the game files for "The Exiled" before they were pulled from Steam
+# The Exiled
+An unmodified copy of the game files for "The Exiled" before the game was pulled from Steam
 
 ### Version
     1.5 (Oct 2017)
