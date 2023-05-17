@@ -1,0 +1,16 @@
+#N canvas 804 321 422 216 10;
+#X obj 71 -71 f;
+#X obj 142 -72 + 1;
+#X obj 71 -137 inlet;
+#X obj 73 16 outlet;
+#X text 211 -31 Simple Counter;
+#X text 350 54 pip;
+#X obj 155 -132 inlet;
+#X msg 118 -105 0;
+#X text 356 -133 Reset to 0;
+#X connect 0 0 1 0;
+#X connect 0 0 3 0;
+#X connect 1 0 0 1;
+#X connect 2 0 0 0;
+#X connect 6 0 7 0;
+#X connect 7 0 0 0;

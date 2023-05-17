@@ -1,0 +1,27 @@
+#N canvas 0 22 784 395 10;
+#X obj 21 147 inlet;
+#X obj 109 173 soundfiler;
+#X obj 109 92 loadbang;
+#X text 61 147 Trigger;
+#X obj 116 212 tabplay~ difficultyL;
+#X obj 259 214 tabplay~ difficultyR;
+#X obj 116 250 outlet~ L;
+#X obj 282 251 outlet~ R;
+#N canvas 0 22 450 278 (subpatch) 0;
+#X array difficultyL 88200 float 2;
+#X coords 0 1 88200 -1 200 140 1;
+#X restore 481 56 graph;
+#X msg 109 118 read -resize sfx_gui_difficulty_00.wav difficultyL difficultyR
+;
+#N canvas 0 22 450 278 (subpatch) 0;
+#X array difficultyR 88200 float 2;
+#X coords 0 1 88200 -1 200 140 1 0 0;
+#X restore 479 217 graph;
+#X connect 0 0 4 0;
+#X connect 0 0 5 0;
+#X connect 1 0 4 0;
+#X connect 1 0 5 0;
+#X connect 2 0 9 0;
+#X connect 4 0 6 0;
+#X connect 5 0 7 0;
+#X connect 9 0 1 0;

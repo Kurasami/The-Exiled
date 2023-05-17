@@ -1,0 +1,17 @@
+#N canvas 0 22 399 382 10;
+#X msg 113 139 60000;
+#X floatatom 169 142 5 0 0 0 - - -;
+#X obj 127 184 /;
+#X obj 121 269 outlet;
+#X obj 161 57 inlet;
+#X obj 130 112 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj 143 81 t b f;
+#X text 19 19 Simple BPM Converter;
+#X connect 0 0 2 0;
+#X connect 1 0 2 1;
+#X connect 2 0 3 0;
+#X connect 4 0 6 0;
+#X connect 5 0 0 0;
+#X connect 6 0 5 0;
+#X connect 6 1 1 0;
