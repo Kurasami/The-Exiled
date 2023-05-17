@@ -1,3 +1,5 @@
+![banner](https://cdn.akamai.steamstatic.com/steam/apps/332650/header.jpg)
+
 # The Exiled
 An unmodified copy of the game files for "The Exiled" before the game was pulled from Steam
 
