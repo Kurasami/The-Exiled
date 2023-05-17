@@ -10,7 +10,7 @@ An unmodified copy of the game files for "The Exiled" before the game was pulled
 
 The Exiled (formerly Das Tal) was created by [Fairytale Distillery](http://www.fairytale-distillery.com/) and published to Steam on 23 Feb, 2017. Development ceased the same year with the last update released in October 2017.
 
-The game was pulled from Steam in Q4 of 2022.
+The game was pulled from Steam on August 23rd 2022.
 
 ## Gameplay Videos
 * https://www.youtube.com/watch?v=STmKFoFV_Do
